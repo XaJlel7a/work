@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f051a8e7-8d4e-497a-9ddf-1cee4d15e863" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../img/comp_sect.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto_sect_1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto_sect_2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto_sect_3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto_sect_4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto_sect_5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto_sect_6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto_sect_7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/foto_sect_8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/hand.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iGdPTcpgXhC1HCzZ3SBb1fAMlv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f051a8e7-8d4e-497a-9ddf-1cee4d15e863" name="Default Changelist" comment="" />
+      <created>1601537843666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601537843666</updated>
+      <workItem from="1601537848924" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
